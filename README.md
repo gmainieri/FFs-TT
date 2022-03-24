@@ -1,2 +1,2 @@
 # FFs-TT
-Heuristics results and instances for total tardiness minimization in the flexible flowshop scheduling problem
+Instances and results for total tardiness minimization in the flexible flowshop scheduling problem
