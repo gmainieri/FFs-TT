@@ -1,0 +1,577 @@
+ID	jobs	opt_TT	time	status	LB
+20001	4	103	0,166	Optimum found	103
+20002	4	93	0,048	Optimum found	93
+20003	4	98	0,083	Optimum found	98
+20004	4	0	0,152	Optimum found	0
+20005	4	0	0,088	Optimum found	0
+20006	4	132	0,126	Optimum found	132
+20007	4	392	0,781	Optimum found	392
+20008	4	273	0,094	Optimum found	273
+20009	4	162	0,177	Optimum found	162
+20010	4	482	0,067	Optimum found	482
+20011	4	499	0,09	Optimum found	499
+20012	4	315	0,294	Optimum found	315
+20013	4	72	0,104	Optimum found	72
+20014	4	32	0,286	Optimum found	32
+20015	4	32	0,298	Optimum found	32
+20016	4	175	0,201	Optimum found	175
+20017	4	120	0,098	Optimum found	120
+20018	4	209	0,549	Optimum found	209
+20019	4	306	0,115	Optimum found	306
+20020	4	118	0,427	Optimum found	118
+20021	4	257	0,252	Optimum found	257
+20022	4	314	0,303	Optimum found	314
+20023	4	39	0,25	Optimum found	39
+20024	4	275	0,185	Optimum found	275
+20025	4	65	0,115	Optimum found	65
+20026	4	38	0,306	Optimum found	38
+20027	4	218	0,552	Optimum found	218
+20028	4	189	0,114	Optimum found	189
+20029	4	90	0,129	Optimum found	90
+20030	4	73	0,069	Optimum found	73
+20031	4	466	0,644	Optimum found	466
+20032	4	319	0,3	Optimum found	319
+20033	4	203	0,087	Optimum found	203
+20034	4	65	0,101	Optimum found	65
+20035	4	900	0,535	Optimum found	900
+20036	4	289	0,08	Optimum found	289
+20037	4	48	0,195	Optimum found	48
+20038	4	0	0,17	Optimum found	0
+20039	4	0	0,345	Optimum found	0
+20040	4	155	0,36	Optimum found	155
+20041	4	186	0,096	Optimum found	186
+20042	4	139	0,555	Optimum found	139
+20043	4	355	0,196	Optimum found	355
+20044	4	160	0,436	Optimum found	160
+20045	4	79	0,168	Optimum found	79
+20046	4	477	0,54	Optimum found	477
+20047	4	343	0,281	Optimum found	343
+20048	4	586	0,345	Optimum found	586
+20049	4	20	0,161	Optimum found	20
+20050	4	75	0,385	Optimum found	75
+20051	4	85	0,649	Optimum found	85
+20052	4	52	0,07	Optimum found	52
+20053	4	106	0,186	Optimum found	106
+20054	4	178	0,141	Optimum found	178
+20055	4	235	0,358	Optimum found	235
+20056	4	437	0,563	Optimum found	437
+20057	4	282	0,195	Optimum found	282
+20058	4	473	0,185	Optimum found	473
+20059	4	160	0,081	Optimum found	160
+20060	4	640	0,599	Optimum found	640
+20061	4	75	0,604	Optimum found	75
+20062	4	14	0,39	Optimum found	14
+20063	4	72	0,122	Optimum found	72
+20064	4	165	0,319	Optimum found	165
+20065	4	278	0,057	Optimum found	278
+20066	4	316	0,599	Optimum found	316
+20067	4	416	0,115	Optimum found	416
+20068	4	273	0,388	Optimum found	273
+20069	4	414	0,217	Optimum found	414
+20070	4	126	0,101	Optimum found	126
+20071	4	370	0,133	Optimum found	370
+20072	4	510	0,088	Optimum found	510
+20073	4	0	0,185	Optimum found	0
+20074	4	295	0,341	Optimum found	295
+20075	4	40	0,063	Optimum found	40
+20076	4	221	0,086	Optimum found	221
+20077	4	146	0,071	Optimum found	146
+20078	4	74	0,205	Optimum found	74
+20079	4	288	0,224	Optimum found	288
+20080	4	25	0,307	Optimum found	25
+20081	4	212	0,16	Optimum found	212
+20082	4	181	0,079	Optimum found	181
+20083	4	377	0,067	Optimum found	377
+20084	4	97	0,474	Optimum found	97
+20085	4	0	0,057	Optimum found	0
+20086	4	58	0,18	Optimum found	58
+20087	4	18	0,308	Optimum found	18
+20088	4	390	0,3	Optimum found	390
+20089	4	160	0,444	Optimum found	160
+20090	4	33	0,149	Optimum found	33
+20091	4	285	0,081	Optimum found	285
+20092	4	376	0,067	Optimum found	376
+20093	4	451	0,417	Optimum found	451
+20094	4	114	0,072	Optimum found	114
+20095	4	312	0,155	Optimum found	312
+20096	4	198	0,074	Optimum found	198
+20097	4	96	0,083	Optimum found	96
+20098	4	0	0,123	Optimum found	0
+20099	4	201	0,584	Optimum found	201
+20100	4	93	0,102	Optimum found	93
+20101	4	0	0,04	Optimum found	0
+20102	4	278	0,053	Optimum found	278
+20103	4	387	0,09	Optimum found	387
+20104	4	368	0,509	Optimum found	368
+20105	4	549	0,645	Optimum found	549
+20106	4	373	0,168	Optimum found	373
+20107	4	502	0,691	Optimum found	502
+20108	4	303	0,228	Optimum found	303
+20109	4	0	0,779	Optimum found	0
+20110	4	77	0,086	Optimum found	77
+20111	4	44	0,466	Optimum found	44
+20112	4	197	0,137	Optimum found	197
+20113	4	95	0,126	Optimum found	95
+20114	4	97	0,727	Optimum found	97
+20115	4	199	0,465	Optimum found	199
+20116	4	270	0,11	Optimum found	270
+20117	4	319	0,303	Optimum found	319
+20118	4	202	0,375	Optimum found	202
+20119	4	606	0,842	Optimum found	606
+20120	4	130	0,244	Optimum found	130
+20121	4	113	0,207	Optimum found	113
+20122	4	101	0,324	Optimum found	101
+20123	4	108	0,189	Optimum found	108
+20124	4	118	0,309	Optimum found	118
+20125	4	51	0,095	Optimum found	51
+20126	4	177	0,47	Optimum found	177
+20127	4	245	0,269	Optimum found	245
+20128	4	497	0,405	Optimum found	497
+20129	4	483	0,17	Optimum found	483
+20130	4	0	0,157	Optimum found	0
+20131	4	384	0,289	Optimum found	384
+20132	4	246	0,082	Optimum found	246
+20133	4	0	0,131	Optimum found	0
+20134	4	102	0,045	Optimum found	102
+20135	4	96	0,108	Optimum found	96
+20136	4	409	0,688	Optimum found	409
+20137	4	171	0,102	Optimum found	171
+20138	4	279	0,16	Optimum found	279
+20139	4	325	0,276	Optimum found	325
+20140	4	231	0,165	Optimum found	231
+20141	4	272	0,141	Optimum found	272
+20142	4	551	0,079	Optimum found	551
+20143	4	26	0,251	Optimum found	26
+20144	4	354	0,306	Optimum found	354
+20145	6	59	56,105	Optimum found	59
+20146	6	152	1,615	Optimum found	152
+20147	6	32	4,552	Optimum found	32
+20148	6	145	0,422	Optimum found	145
+20149	6	397	0,591	Optimum found	397
+20150	6	250	0,439	Optimum found	250
+20151	6	169	0,92	Optimum found	169
+20152	6	601	1,411	Optimum found	601
+20153	6	703	2,258	Optimum found	703
+20154	6	801	0,847	Optimum found	801
+20155	6	243	1,824	Optimum found	243
+20156	6	185	0,395	Optimum found	185
+20157	6	50	23,196	Optimum found	50
+20158	6	0	1,024	Optimum found	0
+20159	6	0	1,212	Optimum found	0
+20160	6	108	0,923	Optimum found	108
+20161	6	192	18,086	Optimum found	192
+20162	6	25	0,472	Optimum found	25
+20163	6	674	3,101	Optimum found	673,98
+20164	6	471	1,536	Optimum found	471
+20165	6	713	6,828	Optimum found	713
+20166	6	814	1,394	Optimum found	814
+20167	6	270	8,097	Optimum found	270
+20168	6	297	9,888	Optimum found	297
+20169	6	0	1,072	Optimum found	0
+20170	6	48	5,4	Optimum found	48
+20171	6	144	4,905	Optimum found	144
+20172	6	447	1,145	Optimum found	447
+20173	6	638	1,103	Optimum found	638
+20174	6	713	3,78	Optimum found	713
+20175	6	661	4,125	Optimum found	661
+20176	6	629	23,58	Optimum found	628,973
+20177	6	155	2,092	Optimum found	155
+20178	6	1214	5,601	Optimum found	1214
+20179	6	1362	1,162	Optimum found	1362
+20180	6	751	1,393	Optimum found	751
+20181	6	165	1,921	Optimum found	165
+20182	6	158	4,724	Optimum found	158
+20183	6	0	0,526	Optimum found	0
+20184	6	52	1,186	Optimum found	52
+20185	6	266	4,368	Optimum found	266
+20186	6	184	9,596	Optimum found	184
+20187	6	355	1,353	Optimum found	355
+20188	6	557	1,509	Optimum found	556,979
+20189	6	416	44,199	Optimum found	415,996
+20190	6	751	39,397	Optimum found	750,997
+20191	6	462	1,726	Optimum found	462
+20192	6	75	5,757	Optimum found	75
+20193	6	22	0,549	Optimum found	22
+20194	6	303	4,257	Optimum found	303
+20195	6	7	0,579	Optimum found	7
+20196	6	309	2,958	Optimum found	309
+20197	6	104	0,213	Optimum found	104
+20198	6	0	0,606	Optimum found	0
+20199	6	785	2,332	Optimum found	784,949
+20200	6	919	33,786	Optimum found	918,974
+20201	6	645	1,461	Optimum found	645
+20202	6	794	2,894	Optimum found	794
+20203	6	344	3,287	Optimum found	344
+20204	6	983	8,387	Optimum found	983
+20205	6	277	40,723	Optimum found	276,983
+20206	6	45	2,522	Optimum found	45
+20207	6	66	2,021	Optimum found	66
+20208	6	0	1,122	Optimum found	0
+20209	6	235	0,493	Optimum found	235
+20210	6	192	1,253	Optimum found	192
+20211	6	480	1,07	Optimum found	480
+20212	6	433	47,543	Optimum found	432,979
+20213	6	422	2,069	Optimum found	422
+20214	6	1085	0,779	Optimum found	1085
+20215	6	891	0,903	Optimum found	891
+20216	6	862	2,988	Optimum found	862
+20217	6	88	0,553	Optimum found	88
+20218	6	366	6,405	Optimum found	366
+20219	6	39	6,583	Optimum found	39
+20220	6	181	15,432	Optimum found	181
+20221	6	253	5,156	Optimum found	252,999
+20222	6	47	0,251	Optimum found	47
+20223	6	380	4,524	Optimum found	380
+20224	6	257	3,035	Optimum found	257
+20225	6	138	2,414	Optimum found	138
+20226	6	451	1,265	Optimum found	451
+20227	6	124	3,566	Optimum found	124
+20228	6	421	0,569	Optimum found	421
+20229	6	0	1,066	Optimum found	0
+20230	6	113	3,434	Optimum found	113
+20231	6	157	1,846	Optimum found	157
+20232	6	65	7,018	Optimum found	65
+20233	6	618	85,169	Optimum found	617,979
+20234	6	269	10,896	Optimum found	269
+20235	6	917	2,113	Optimum found	917
+20236	6	364	2,216	Optimum found	364
+20237	6	486	3,507	Optimum found	486
+20238	6	463	3,289	Optimum found	463
+20239	6	560	15,954	Optimum found	560
+20240	6	1226	2	Optimum found	1226
+20241	6	210	4,161	Optimum found	210
+20242	6	242	1,799	Optimum found	242
+20243	6	382	11,226	Optimum found	382
+20244	6	57	0,807	Optimum found	57
+20245	6	238	0,546	Optimum found	238
+20246	6	97	0,455	Optimum found	97
+20247	6	103	4,344	Optimum found	102,992
+20248	6	438	5,695	Optimum found	437,965
+20249	6	464	6,05	Optimum found	464
+20250	6	1090	1,749	Optimum found	1090
+20251	6	166	108,133	Optimum found	165,996
+20252	6	636	2,008	Optimum found	636
+20253	6	47	7,281	Optimum found	47
+20254	6	137	8,069	Optimum found	137
+20255	6	10	5,767	Optimum found	10
+20256	6	237	0,58	Optimum found	237
+20257	6	609	12,674	Optimum found	608,944
+20258	6	390	4,119	Optimum found	390
+20259	6	570	0,887	Optimum found	570
+20260	6	208	0,69	Optimum found	208
+20261	6	272	3,484	Optimum found	272
+20262	6	157	1,513	Optimum found	157
+20263	6	532	0,717	Optimum found	532
+20264	6	417	7,961	Optimum found	417
+20265	6	99	3,703	Optimum found	99
+20266	6	9	1,021	Optimum found	9
+20267	6	47	10,642	Optimum found	47
+20268	6	457	2,573	Optimum found	457
+20269	6	327	3,099	Optimum found	326,978
+20270	6	217	1,7	Optimum found	217
+20271	6	336	0,528	Optimum found	336
+20272	6	389	11,556	Optimum found	389
+20273	6	530	1,773	Optimum found	530
+20274	6	381	3,794	Optimum found	381
+20275	6	644	2,68	Optimum found	644
+20276	6	518	18,868	Optimum found	518
+20277	6	0	0,885	Optimum found	0
+20278	6	115	8,348	Optimum found	115
+20279	6	191	4,904	Optimum found	191
+20280	6	245	0,917	Optimum found	245
+20281	6	200	0,622	Optimum found	200
+20282	6	293	39,684	Optimum found	292,994
+20283	6	474	4,49	Optimum found	474
+20284	6	344	1,668	Optimum found	344
+20285	6	251	5,393	Optimum found	251
+20286	6	760	1,408	Optimum found	760
+20287	6	820	1,204	Optimum found	820
+20288	6	169	20,592	Optimum found	169
+20289	8	0	6,088	Optimum found	0
+20290	8	90	2,299	Optimum found	90
+20291	8	109	136,568	Optimum found	108,996
+20292	8	279	7,413	Optimum found	279
+20293	8	226	1,274	Optimum found	226
+20294	8	0	2,493	Optimum found	0
+20295	8	370	36,751	Optimum found	370
+20296	8	346	609,595	Optimum found	345,998
+20297	8	236	76,095	Optimum found	236
+20298	8	1040	7,3	Optimum found	1040
+20299	8	1198	3599,75	Unfinished	1065,14
+20300	8	414	3599,38	Unfinished	359,058
+20301	8	23	819,719	Optimum found	23
+20302	8	46	15,528	Optimum found	46
+20303	8	139	3599,56	Unfinished	94
+20304	8	225	17,324	Optimum found	225
+20305	8	409	4,179	Optimum found	409
+20306	8	477	18,466	Optimum found	477
+20307	8	600	241,052	Optimum found	599,984
+20308	8	1202	110,808	Optimum found	1201,94
+20309	8	1229	677,886	Optimum found	1228,92
+20310	8	1305	531,641	Optimum found	1303,71
+20311	8	979	7,229	Optimum found	978,916
+20312	8	348	6,978	Optimum found	348
+20313	8	66	14,727	Optimum found	66
+20314	8	0	104,657	Optimum found	0
+20315	8	0	21,483	Optimum found	0
+20316	8	609	3599,27	Unfinished	478
+20317	8	704	356,2	Optimum found	703,971
+20318	8	172	128,834	Optimum found	171,991
+20319	8	697	76,645	Optimum found	696,984
+20320	8	723	40,168	Optimum found	722,979
+20321	8	903	3010,37	Optimum found	902,913
+20322	8	1103	1114,02	Optimum found	1102,89
+20323	8	1365	51,55	Optimum found	1364,96
+20324	8	2048	781,881	Optimum found	2047,82
+20325	8	19	530,048	Optimum found	19
+20326	8	67	67,793	Optimum found	67
+20327	8	86	55,938	Optimum found	86
+20328	8	507	761,563	Optimum found	506,5
+20329	8	324	303,152	Optimum found	323,976
+20330	8	88	1,618	Optimum found	88
+20331	8	479	3599,66	Unfinished	325
+20332	8	605	3599,33	Unfinished	552
+20333	8	591	31,726	Optimum found	591
+20334	8	921	3,485	Optimum found	921
+20335	8	899	111,085	Optimum found	898,951
+20336	8	709	11,854	Optimum found	709
+20337	8	370	3599,75	Unfinished	310
+20338	8	387	3599,8	Unfinished	312
+20339	8	242	3599,93	Unfinished	209,074
+20340	8	48	101,296	Optimum found	48
+20341	8	488	6,536	Optimum found	488
+20342	8	0	1,947	Optimum found	0
+20343	8	355	3599,37	Unfinished	195
+20344	8	928	64,808	Optimum found	927,976
+20345	8	1044	1735,75	Optimum found	1043,91
+20346	8	1236	711,008	Optimum found	1235,91
+20347	8	833	127,137	Optimum found	832,998
+20348	8	1535	172,847	Optimum found	1534,95
+20349	8	277	346,691	Optimum found	276,999
+20350	8	189	3434,29	Optimum found	188,819
+20351	8	182	2245,2	Optimum found	182
+20352	8	347	38,557	Optimum found	347
+20353	8	200	3,139	Optimum found	200
+20354	8	0	2,07	Optimum found	0
+20355	8	1152	493,773	Optimum found	1152
+20356	8	1260	1403,38	Optimum found	1260
+20357	8	923	92,165	Optimum found	923
+20358	8	495	4,274	Optimum found	495
+20359	8	402	42,401	Optimum found	402
+20360	8	928	102,352	Optimum found	928
+20361	8	37	122,991	Optimum found	37
+20362	8	24	76,767	Optimum found	24
+20363	8	47	2717,19	Optimum found	47
+20364	8	332	3599,46	Unfinished	225
+20365	8	244	428,615	Optimum found	244
+20366	8	427	6,86	Optimum found	427
+20367	8	436	3600,8	Unfinished	282
+20368	8	841	738,079	Optimum found	841
+20369	8	337	142,605	Optimum found	337
+20370	8	1223	7,035	Optimum found	1223
+20371	8	651	111,535	Optimum found	651
+20372	8	254	3599,21	Unfinished	219
+20373	8	119	20,317	Optimum found	119
+20374	8	294	3599,66	Unfinished	255
+20375	8	84	3600,03	Unfinished	65
+20376	8	228	3,754	Optimum found	228
+20377	8	121	60,613	Optimum found	121
+20378	8	409	4,086	Optimum found	409
+20379	8	809	3599,98	Unfinished	452
+20380	8	793	3599,84	Unfinished	708
+20381	8	721	986,57	Optimum found	721
+20382	8	623	3599,15	Unfinished	537
+20383	8	619	124,308	Optimum found	619
+20384	8	1041	175,627	Optimum found	1041
+20385	8	3	1130,84	Optimum found	3
+20386	8	112	22,706	Optimum found	112
+20387	8	355	250,451	Optimum found	355
+20388	8	317	11,999	Optimum found	317
+20389	8	71	227,128	Optimum found	71
+20390	8	385	34,836	Optimum found	385
+20391	8	595	180,972	Optimum found	595
+20392	8	670	3601,58	Unfinished	367
+20393	8	632	87,531	Optimum found	632
+20394	8	530	230,195	Optimum found	530
+20395	8	1507	12,249	Optimum found	1507
+20396	8	1035	126,739	Optimum found	1035
+20397	8	59	68,953	Optimum found	59
+20398	8	0	35,992	Optimum found	0
+20399	8	0	6,564	Optimum found	0
+20400	8	177	264,246	Optimum found	177
+20401	8	114	3,987	Optimum found	114
+20402	8	451	7,971	Optimum found	451
+20403	8	512	56,262	Optimum found	512
+20404	8	332	3607,53	Unfinished	205
+20405	8	687	54,971	Optimum found	687
+20406	8	382	818,007	Optimum found	382
+20407	8	208	56,183	Optimum found	208
+20408	8	101	27,235	Optimum found	101
+20409	8	82	161,654	Optimum found	82
+20410	8	200	1756,13	Optimum found	200
+20411	8	88	3599,81	Unfinished	53
+20412	8	289	18,015	Optimum found	289
+20413	8	371	310,331	Optimum found	371
+20414	8	109	113,757	Optimum found	109
+20415	8	280	1322,26	Optimum found	280
+20416	8	643	3599,89	Unfinished	473
+20417	8	594	104,963	Optimum found	593
+20418	8	593	358,366	Optimum found	592
+20419	8	522	625,571	Optimum found	521
+20420	8	401	3599,93	Unfinished	366
+20421	8	39	54,267	Optimum found	39
+20422	8	316	181,843	Optimum found	316
+20423	8	386	527,689	Optimum found	386
+20424	8	41	1,923	Optimum found	41
+20425	8	133	7,475	Optimum found	133
+20426	8	409	1383,96	Optimum found	409
+20427	8	730	694,214	Optimum found	729
+20428	8	1086	572,108	Optimum found	1085
+20429	8	830	332,456	Optimum found	829
+20430	8	1339	216,719	Optimum found	1338
+20431	8	984	79,342	Optimum found	983
+20432	8	160	8,014	Optimum found	160
+20433	10	0	1107,23	Optimum found	0
+20434	10	254	3599,58	Unfinished	105
+20435	10	0	35,147	Optimum found	0
+20436	10	299	3599,94	Unfinished	223
+20437	10	258	2,995	Optimum found	258
+20438	10	572	1048,96	Optimum found	571
+20439	10	504	3599,88	Unfinished	100
+20440	10	573	3599,93	Unfinished	269
+20441	10	626	3599,44	Unfinished	269
+20442	10	442	1071,47	Optimum found	442
+20443	10	988	3673,92	Unfinished	850
+20444	10	832	3600,06	Unfinished	739
+20445	10	0	18,205	Optimum found	0
+20446	10	152	3599,82	Unfinished	88
+20447	10	97	402,508	Optimum found	97
+20448	10	507	3599,23	Unfinished	461
+20449	10	592	3599,55	Unfinished	378
+20450	10	588	49,827	Optimum found	588
+20451	10	819	3599,99	Unfinished	656
+20452	10	684	3599,1	Unfinished	566
+20453	10	794	3599,94	Unfinished	498
+20454	10	876	154,955	Optimum found	875
+20455	10	1023	3599,57	Unfinished	804
+20456	10	823	1112,38	Optimum found	822
+20457	10	193	3599,43	Unfinished	18
+20458	10	497	3600,11	Unfinished	75
+20459	10	0	1145,87	Optimum found	0
+20460	10	1168	3600,38	Unfinished	733
+20461	10	847	3599,49	Unfinished	619
+20462	10	980	2394,9	Optimum found	979
+20463	10	994	3600,11	Unfinished	163
+20464	10	641	3600,67	Unfinished	420
+20465	10	1100	3600,16	Unfinished	607
+20466	10	1359	3599,38	Unfinished	1025
+20467	10	2321	3599,57	Unfinished	1947
+20468	10	675	3599,71	Unfinished	454
+20469	10	240	3599,8	Unfinished	18
+20470	10	0	23,666	Optimum found	0
+20471	10	9	3600,02	Unfinished	0
+20472	10	191	67,003	Optimum found	191
+20473	10	589	3599,25	Unfinished	406
+20474	10	13	25,038	Optimum found	13
+20475	10	977	3599,29	Unfinished	439
+20476	10	1175	3599,94	Unfinished	929
+20477	10	492	3599,7	Unfinished	17
+20478	10	569	3599,73	Unfinished	441
+20479	10	302	3599,17	Unfinished	158
+20480	10	629	3600,24	Unfinished	497
+20481	10	622	3599,62	Unfinished	140
+20482	10	106	3599,46	Unfinished	100
+20483	10	82	3599,04	Unfinished	0
+20484	10	233	51,471	Optimum found	233
+20485	10	114	1764,22	Optimum found	114
+20486	10	774	9,454	Optimum found	774
+20487	10	1192	3600,11	Unfinished	577
+20488	10	1243	3599,52	Unfinished	791
+20489	10	1046	3600,02	Unfinished	489
+20490	10	469	3600,1	Unfinished	213
+20491	10	1275	3599,47	Unfinished	530
+20492	10	589	3599,29	Unfinished	535
+20493	10	258	3599,19	Unfinished	113
+20494	10	35	3599,85	Unfinished	0
+20495	10	0	24,492	Optimum found	0
+20496	10	146	15,382	Optimum found	146
+20497	10	412	3599,11	Unfinished	321
+20498	10	363	3600,39	Unfinished	269
+20499	10	1301	3599,28	Unfinished	786
+20500	10	1488	3600,58	Unfinished	934
+20501	10	1250	3599,8	Unfinished	533
+20502	10	1331	3599,18	Unfinished	1047
+20503	10	1489	3599,97	Unfinished	1271
+20504	10	832	3599,22	Unfinished	703
+20505	10	48	3599,96	Unfinished	6
+20506	10	0	105,098	Optimum found	0
+20507	10	57	3599,91	Unfinished	41
+20508	10	684	3599,44	Unfinished	462
+20509	10	588	3599,8	Unfinished	478
+20510	10	387	3599,78	Unfinished	309
+20511	10	939	3601,41	Unfinished	440
+20512	10	616	3601,23	Unfinished	226
+20513	10	761	3600,07	Unfinished	554
+20514	10	757	3600,1	Unfinished	615
+20515	10	523	3599,71	Unfinished	438
+20516	10	976	3600,19	Unfinished	771
+20517	10	173	3600,25	Unfinished	0
+20518	10	6	158,965	Optimum found	6
+20519	10	222	3599,45	Unfinished	12
+20520	10	186	3599,96	Unfinished	183
+20521	10	646	3599,52	Unfinished	614
+20522	10	246	150,4	Optimum found	246
+20523	10	1374	3600,41	Unfinished	553
+20524	10	824	3599,47	Unfinished	385
+20525	10	786	3599,79	Unfinished	392
+20526	10	401	863,446	Optimum found	401
+20527	10	287	3599,39	Unfinished	239
+20528	10	913	3599,83	Unfinished	724
+20529	10	400	3730,25	Unfinished	61
+20530	10	223	3599,74	Unfinished	57
+20531	10	36	3600,3	Unfinished	4
+20532	10	174	7,831	Optimum found	174
+20533	10	227	17,862	Optimum found	227
+20534	10	286	831,435	Optimum found	286
+20535	10	904	3599,27	Unfinished	457
+20536	10	1442	3602,83	Unfinished	993
+20537	10	1110	3599,74	Unfinished	649
+20538	10	1737	3599,6	Unfinished	900
+20539	10	729	3600,35	Unfinished	449
+20540	10	1143	3599,19	Unfinished	982
+20541	10	0	57,305	Optimum found	0
+20542	10	10	3599,5	Unfinished	0
+20543	10	0	287,285	Optimum found	0
+20544	10	134	3599,89	Unfinished	70
+20545	10	290	3599,92	Unfinished	64
+20546	10	546	3600,23	Unfinished	407
+20547	10	346	3599,42	Unfinished	130
+20548	10	1117	3599,86	Unfinished	557
+20549	10	672	3803,9	Unfinished	475
+20550	10	1765	3599,5	Unfinished	1595
+20551	10	747	3599,95	Unfinished	658
+20552	10	1665	3913,27	Unfinished	1520
+20553	10	0	26,801	Optimum found	0
+20554	10	14	3599,09	Unfinished	0
+20555	10	363	3599,95	Unfinished	40
+20556	10	150	1062,36	Optimum found	150
+20557	10	471	3599,73	Unfinished	380
+20558	10	203	15,575	Optimum found	203
+20559	10	668	3599,55	Unfinished	316
+20560	10	838	3625	Unfinished	474
+20561	10	770	3600,09	Unfinished	625
+20562	10	1257	3600,31	Unfinished	1112
+20563	10	876	3600,91	Unfinished	593
+20564	10	1256	3599,48	Unfinished	1007
+20565	10	118	3599,07	Unfinished	0
+20566	10	101	3599,09	Unfinished	19
+20567	10	0	362,467	Optimum found	0
+20568	10	512	3599,65	Unfinished	411
+20569	10	883	3599,94	Unfinished	741
+20570	10	879	3600,02	Unfinished	442
+20571	10	716	3600,6	Unfinished	289
+20572	10	1399	3600,05	Unfinished	850
+20573	10	1094	3599,77	Unfinished	741
+20574	10	597	3599,92	Unfinished	436
+20575	10	1152	3599,65	Unfinished	1079
+20576	10	852	3599,93	Unfinished	645
